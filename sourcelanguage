@@ -1,7 +1,7 @@
 {
   status: "ok",
-  -sources: [
-    -{
+  sources: [
+    {
       id: "ceo-health-en",
       name: "CEO Health EN",
       description: "Your trusted source for healty, food, technology, and videos at CEOHealth.com",
@@ -10,7 +10,7 @@
       language: "en",
       country: "us"
      },
-    -{
+    {
       id: "ceo-health-id",
       name: "CEO Health ID",
       description: "Sumber tepercaya Anda untuk kesehatan, makanan, teknologi, dan video di CEOHealth.com",
