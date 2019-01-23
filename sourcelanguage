@@ -2,7 +2,7 @@
 "status": "ok",
 "sources": [
 {
-"id": "ceo-health-en",
+"id": "api",
 "name": "CEO Health EN",
 "description": "Your trusted source for healty, food, technology, and videos at CEOHealth.com",
 "url": "https://gotopdf.tk/",
@@ -11,7 +11,7 @@
 "country": "us"
 },
 {
-"id": "ceo-health-id",
+"id": "api",
 "name": "CEO Health ID",
 "description": "Sumber tepercaya Anda untuk kesehatan, makanan, teknologi, dan video di CEOHealth.com",
 "url": "https://gotopdf.tk/",
